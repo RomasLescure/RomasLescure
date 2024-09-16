@@ -1,4 +1,4 @@
-## Hi there, Iḿ Romas Lescure 👋
+## Hi there, I'm Romas Lescure 👋
 
 <!--
 **RomasLescure/RomasLescure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
