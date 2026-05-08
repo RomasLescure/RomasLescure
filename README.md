@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Adapting to the Ever-Changing Developer Environment
 
-I'm a mid-level full-stack developer with 3–5 years of experience building robust, scalable web applications. I enjoy working across the entire stack — from crafting responsive front-end interfaces to designing efficient back-end architectures. I thrive in dynamic environments and am always evolving alongside the tech landscape.
+I'm a mid-level full-stack developer with 5 years of experience building robust, scalable web applications. I enjoy working across the entire stack — from crafting responsive front-end interfaces to designing efficient back-end architectures. I thrive in dynamic environments and am always evolving alongside the tech landscape.
 
 ---
 
