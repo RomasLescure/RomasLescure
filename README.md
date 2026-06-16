@@ -50,7 +50,3 @@ I'm a mid-level full-stack developer with 5 years of experience building robust,
 | 🐙 GitHub | [RomasLescure](https://github.com/RomasLescure) |
 | 💼 LinkedIn | [romas-lescure](https://www.linkedin.com/in/romas-lescure/) |
 | 📧 Email | [romasalexander19@gmail.com](mailto:romasalexander19@gmail.com) |
-
----
-
-*"The only constant in tech is change — and I'm here for it."*
