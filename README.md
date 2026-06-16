@@ -1,4 +1,4 @@
-# Hi there, I'm Romas Lescure 👋
+# Hi I'm Romas Lescure
 
 ### Full-Stack Developer | Adapting to the Ever-Changing Developer Environment
 
@@ -34,12 +34,12 @@ I'm a mid-level full-stack developer with 5 years of experience building robust,
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm a **full-stack developer** comfortable on both the front end and back end
-- 🐍 I love building APIs with **Python**, **Django**, and **FastAPI**
-- ⚛️ I build modern UIs with **React**, **Vue.js**, and **Angular**
-- 🗄️ I work with relational databases including **PostgreSQL** and **Microsoft SQL Server**
-- ☁️ I deploy and manage infrastructure on **AWS** using **Docker** and **Linux** environments
-- 🌱 Always learning and adapting to the ever-evolving world of software development
+-  I'm a **full-stack developer** comfortable on both the front end and back end
+-  I love building APIs with **Python**, **Django**, and **FastAPI**
+-  I build modern UIs with **React**, **Vue.js**, and **Angular**
+-  I work with relational databases including **PostgreSQL** and **Microsoft SQL Server**
+-  I deploy and manage infrastructure on **AWS** using **Docker** and **Linux** environments
+-  Always learning and adapting to the ever-evolving world of software development
 
 ---
 
@@ -47,6 +47,5 @@ I'm a mid-level full-stack developer with 5 years of experience building robust,
 
 | Platform | Link |
 |----------|------|
-| 🐙 GitHub | [RomasLescure](https://github.com/RomasLescure) |
 | 💼 LinkedIn | [romas-lescure](https://www.linkedin.com/in/romas-lescure/) |
 | 📧 Email | [romasalexander19@gmail.com](mailto:romasalexander19@gmail.com) |
